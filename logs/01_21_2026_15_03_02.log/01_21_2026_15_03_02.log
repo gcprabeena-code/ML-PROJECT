@@ -1,0 +1,9 @@
+[2026-01-21 15:03:04,392] 21-INFO-Entered the data ingestion method or components
+[2026-01-21 15:03:04,395] 24-INFO-Read the dataset as DataFrame
+[2026-01-21 15:03:04,399] 29-INFO-Train test Split Initiated
+[2026-01-21 15:03:04,404] 33-INFO-Data ingestion Completed
+[2026-01-21 15:03:04,467] 70-INFO-Reading of train and test data completed
+[2026-01-21 15:03:04,467] 71-INFO-Obtaining preprocessing object
+[2026-01-21 15:03:04,467] 51-INFO-Categorical Features: ['gender', 'race_ethinicity', 'parental_level_of_eduction', 'lunch', 'test_preparation_course']
+[2026-01-21 15:03:04,467] 52-INFO-Numerical Features: ['reading_score', 'writing_score']
+[2026-01-21 15:03:04,469] 82-INFO-Applying preprocessing on training and test data
